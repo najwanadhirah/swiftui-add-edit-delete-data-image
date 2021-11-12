@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Book Store
+
+  Created by Najwa Nadhirah on 30/10/2021.
+  
+*/
+
+"project name" = "SS Book Store";
+"welcome" = "Hello, welcome back to our account";
+"username" = "Username";
+"password" = "Password";
+"success" = "Successfully login!";
+"failed" = "Information not correct. Try again.";
+"login" = "Login";
+"logout" = "Logout";
+"save" = "Save";
+"add" = "Add New Book";
+"update" = "Update";
+"bookupdate" = "Your book is updated!";
+
